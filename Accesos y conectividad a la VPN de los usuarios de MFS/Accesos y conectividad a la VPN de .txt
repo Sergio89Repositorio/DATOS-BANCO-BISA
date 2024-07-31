@@ -1,0 +1,19 @@
+Accesos y conectividad a la VPN de los usuarios de MFS
+=======================================================================================
+
+Estimado Juan Carlos.
+
+Informar que el ambiente de OSB para el consumo del servicio ConsultaTransaccionCore ya fue habilitado.
+
+Favor probar el consumo con las siguientes credenciales.
+
+http://172.20.15.33:8015/sb/GestionCobranzaMovil/v1
+Usuario: svccobmovil
+Password: svccobmovil123456
+
+Adjunto el documento actualizado del diccionario de servicios y archivo en formato Excel con casos de prueba.
+__________________________
+Carlos Fernando Marca Choque
+Banco Bisa - Nologin
+
+=======================================================================================
